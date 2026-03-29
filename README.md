@@ -31,8 +31,6 @@ Each paper gets its own folder:
 /week-01-lost-in-the-middle/
     README.md          ← experiment summary and findings
     playbook.json      ← corpus used in the experiment
-    experiment.py      ← the validation script
-    snapshots/         ← actual Ollama output screenshots
 ```
 
 The folder README covers:
